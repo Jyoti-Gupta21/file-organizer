@@ -8,8 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bin":{
-    "arif": "main.js"
-  }
+  "license": "ISC"
 }
